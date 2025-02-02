@@ -19,7 +19,7 @@ body{
     align-items: center;
     padding: 0 50px 0 50px;
     justify-content: space-between;
-    background-color: #272727;
+    background-color: #162955;
  }
  .banner{
     width: 100%;
@@ -80,6 +80,7 @@ body{
     flex-direction: column;
     gap: 30px;
     padding: 50px 100px;
+    background-color: #0D4D4D;
  }
  
  
@@ -113,7 +114,7 @@ body{
     padding: 20px 10px;
     color:white;
     width: 320px;
-    background-color: #4b4a4a;
+    background-color: #4F628E;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
  }
  .item img{
@@ -164,6 +165,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 20px;
+    background-color: #669999;
  }
  .cart-item-middle{
     display: flex;
@@ -228,7 +230,7 @@ body{
  
  
  footer{
-    background-color: #494949;
+    background-color: #407F7F;
     padding: 30px;
     color: #c8c8c8;
     font-size: 25px;
